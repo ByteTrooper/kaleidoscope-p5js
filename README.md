@@ -1,7 +1,5 @@
 # kaleidoscope-p5js
 
-# p5.js Interactive Kaleidoscope
-
 ## Description
 
 This project is an interactive kaleidoscope simulation created using the p5.js library. It generates mesmerizing, symmetrical visual patterns based on the user's mouse movements within the canvas. The colors of the patterns cycle dynamically as the mouse moves.
