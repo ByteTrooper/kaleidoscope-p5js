@@ -38,7 +38,3 @@ You can view the live demo hosted on GitHub Pages here:
     ```
 3.  Open the `index.html` file in your web browser.
 
-## Hosting
-
-This project is designed to be easily hosted using [GitHub Pages](https://pages.github.com/). Simply place the `index.html` file in the root of your repository and enable GitHub Pages in the repository settings (deploying from the `main` branch).
-
