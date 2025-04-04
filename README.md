@@ -4,15 +4,16 @@
 
 This project is an interactive kaleidoscope simulation created using the p5.js library. It generates mesmerizing, symmetrical visual patterns based on the user's mouse movements within the canvas. The colors of the patterns cycle dynamically as the mouse moves.
 
+![image](https://github.com/user-attachments/assets/f842c25b-797d-4602-9513-c243591cefcb)
+
+
 This was inspired by a concept seen on Instagram ([@artificialintelligencenews.in](https://www.instagram.com/artificialintelligencenews.in/)).
 
 ## Demo
 
 You can view the live demo hosted on GitHub Pages here:
 
-[https://<your-username>.github.io/<repository-name>/](https://<your-username>.github.io/<repository-name>/)
-
-*(Remember to replace `<your-username>` and `<repository-name>` with your actual GitHub username and repository name after deploying!)*
+[[[https://<your-username>.github.io/<repository-name>/](https://<your-username>.github.io/<repository-name>/)](https://bytetrooper.github.io/kaleidoscope-p5js/)
 
 ## Features
 
